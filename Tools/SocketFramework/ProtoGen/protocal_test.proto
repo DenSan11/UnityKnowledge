@@ -1,0 +1,6 @@
+message CS_TEST
+{
+	required string name = 4;
+	required int32 age = 23;
+	required int32 height = 18;
+}

@@ -1,0 +1,11 @@
+syntax = "proto2";  //proto语法版本，有2和3，默认proto2
+package protobuf;  //包名
+//一个message相当于一个类
+//5,3,11不是参数默认值，而是参数标签
+
+message CS_LOGINSERVER  
+{  
+	required string account = 5;  
+	required string password = 3; 
+	required int32 age = 11;
+} 
