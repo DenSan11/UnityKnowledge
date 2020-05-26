@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 116437248
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: testscene/cars.ab
+      Dependencies: {}
+    Info_1:
+      Name: testscene/environment.ab
+      Dependencies: {}
