@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: c46d97ee30ddbd442b5ae9b6ee593ab4
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: blue_head
+    100002: blue_head_0
+    100004: blue_neck
+    100006: blue_neck_0
+    100008: BODY
+    100010: CTRL_MAIN
+    100012: DONOTBATCH
+    100014: eye
+    100016: eye_0
+    100018: giraffe6
+    100020: //RootNode
+    100022: giraffe6_0
+    100024: HEAD
+    100026: joint1
+    100028: joint_Bottom
+    100030: joint_Bottom 1
+    100032: joint_Bottom 2
+    100034: joint_Bottom 3
+    100036: joint_Bottom 4
+    100038: joint_Bottom 5
+    100040: joint_Bottom 6
+    100042: joint_Middle
+    100044: joint_Middle 1
+    100046: joint_Middle 2
+    100048: joint_Middle 3
+    100050: joint_Middle 4
+    100052: joint_Middle 5
+    100054: joint_Middle 6
+    100056: joint_Top
+    100058: joint_Top 1
+    100060: joint_Top 2
+    100062: joint_Top 3
+    100064: joint_Top 4
+    100066: joint_Top 5
+    100068: joint_Top 6
+    100070: MESHES
+    100072: NECK
+    100074: offset
+    100076: shadowQuad
+    100078: shadowQuad_0
+    100080: SKELETON
+    100082: TAIL
+    100084: TOFU_0
+    100086: TOFU_1
+    100088: TOFU_2
+    100090: TOFU_3
+    400000: blue_head
+    400002: blue_head_0
+    400004: blue_neck
+    400006: blue_neck_0
+    400008: BODY
+    400010: CTRL_MAIN
+    400012: DONOTBATCH
+    400014: eye
+    400016: eye_0
+    400018: //RootNode
+    400020: giraffe6
+    400022: giraffe6_0
+    400024: HEAD
+    400026: joint1
+    400028: joint_Bottom
+    400030: joint_Bottom 1
+    400032: joint_Bottom 2
+    400034: joint_Bottom 3
+    400036: joint_Bottom 4
+    400038: joint_Bottom 5
+    400040: joint_Bottom 6
+    400042: joint_Middle
+    400044: joint_Middle 1
+    400046: joint_Middle 2
+    400048: joint_Middle 3
+    400050: joint_Middle 4
+    400052: joint_Middle 5
+    400054: joint_Middle 6
+    400056: joint_Top
+    400058: joint_Top 1
+    400060: joint_Top 2
+    400062: joint_Top 3
+    400064: joint_Top 4
+    400066: joint_Top 5
+    400068: joint_Top 6
+    400070: MESHES
+    400072: NECK
+    400074: offset
+    400076: shadowQuad
+    400078: shadowQuad_0
+    400080: SKELETON
+    400082: TAIL
+    400084: TOFU_0
+    400086: TOFU_1
+    400088: TOFU_2
+    400090: TOFU_3
+    2100000: AllAnimalAtlas
+    2100002: AllEyes
+    2100004: shadow_blob
+    2300000: shadowQuad_0
+    3300000: shadowQuad_0
+    4300000: blue_head_0
+    4300002: blue_neck_0
+    4300004: eye_0
+    4300006: shadowQuad_0
+    4300008: giraffe6_0
+    7400000: 3D_bull_run
+    7400002: 3D_bull_ridden
+    7400004: 3D_bull_buck
+    7400006: 3D_bull_goingWild
+    7400008: 3D_bull_crash
+    7400010: 3D_bull_idle
+    7400012: 3D_bull_happy
+    7400014: 3D_bull_special
+    7400016: 3D_bull_walk
+    7400018: 3D_bull_attack
+    7400020: 3D_bull_smashed
+    7400022: 3D_bull_dizzy
+    7400024: 3D_bull_sprint
+    7400026: XYZ_landedOn
+    7400028: XYZ_warning
+    7400030: XYZ_smashed
+    9500000: //RootNode
+    13700000: blue_head_0
+    13700002: blue_neck_0
+    13700004: eye_0
+    13700006: giraffe6_0
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: de53822ab90057847902b4e34e379fb8,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

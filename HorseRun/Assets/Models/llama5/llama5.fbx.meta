@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 1c32e7be87acfe34c9899b32e6a2cf2d
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BODY
+    100002: CTRL_MAIN
+    100004: DONOTBATCH
+    100006: eye
+    100008: eye_0
+    100010: HEAD
+    100012: joint1
+    100014: joint_BotMid
+    100016: joint_Bottom
+    100018: joint_Bottom 1
+    100020: joint_Bottom 2
+    100022: joint_Bottom 3
+    100024: joint_Bottom 4
+    100026: joint_Bottom 5
+    100028: joint_Bottom 6
+    100030: joint_earL
+    100032: joint_earR
+    100034: joint_Middle
+    100036: joint_Middle 1
+    100038: joint_Middle 2
+    100040: joint_Middle 3
+    100042: joint_Middle 4
+    100044: joint_Middle 5
+    100046: joint_MidMid
+    100048: joint_Top
+    100050: joint_Top 1
+    100052: joint_Top 2
+    100054: joint_Top 3
+    100056: joint_Top 4
+    100058: joint_Top 5
+    100060: joint_Top 6
+    100062: joint_TopMid
+    100064: knight_coat
+    100066: knight_coat_0
+    100068: knight_helmet
+    100070: knight_helmet_0
+    100072: knight_sword
+    100074: knight_sword_0
+    100076: //RootNode
+    100078: llama5
+    100080: llama5_0
+    100082: MESHES
+    100084: NECK
+    100086: offset
+    100088: shadowQuad
+    100090: shadowQuad_0
+    100092: SKELETONTOP
+    100094: TAIL
+    100096: TOFU_0
+    100098: TOFU_1
+    100100: TOFU_2
+    100102: TOFU_3
+    400000: BODY
+    400002: CTRL_MAIN
+    400004: DONOTBATCH
+    400006: eye
+    400008: eye_0
+    400010: HEAD
+    400012: joint1
+    400014: joint_BotMid
+    400016: joint_Bottom
+    400018: joint_Bottom 1
+    400020: joint_Bottom 2
+    400022: joint_Bottom 3
+    400024: joint_Bottom 4
+    400026: joint_Bottom 5
+    400028: joint_Bottom 6
+    400030: joint_earL
+    400032: joint_earR
+    400034: joint_Middle
+    400036: joint_Middle 1
+    400038: joint_Middle 2
+    400040: joint_Middle 3
+    400042: joint_Middle 4
+    400044: joint_Middle 5
+    400046: joint_MidMid
+    400048: joint_Top
+    400050: joint_Top 1
+    400052: joint_Top 2
+    400054: joint_Top 3
+    400056: joint_Top 4
+    400058: joint_Top 5
+    400060: joint_Top 6
+    400062: joint_TopMid
+    400064: knight_coat
+    400066: knight_coat_0
+    400068: knight_helmet
+    400070: knight_helmet_0
+    400072: knight_sword
+    400074: knight_sword_0
+    400076: llama5
+    400078: //RootNode
+    400080: llama5_0
+    400082: MESHES
+    400084: NECK
+    400086: offset
+    400088: shadowQuad
+    400090: shadowQuad_0
+    400092: SKELETONTOP
+    400094: TAIL
+    400096: TOFU_0
+    400098: TOFU_1
+    400100: TOFU_2
+    400102: TOFU_3
+    2100000: atlasEyes
+    2100002: AllAnimalAtlas
+    2100004: shadow_blob
+    2300000: shadowQuad_0
+    3300000: shadowQuad_0
+    4300000: eye_0
+    4300002: knight_coat_0
+    4300004: knight_helmet_0
+    4300006: knight_sword_0
+    4300008: shadowQuad_0
+    4300010: llama5_0
+    7400000: 3D_bull_run
+    7400002: 3D_bull_ridden
+    7400004: 3D_bull_buck
+    7400006: 3D_bull_goingWild
+    7400008: 3D_bull_crash
+    7400010: 3D_bull_idle
+    7400012: 3D_bull_happy
+    7400014: 3D_bull_special
+    7400016: 3D_bull_walk
+    7400018: 3D_bull_attack
+    7400020: 3D_bull_smashed
+    7400022: 3D_bull_dizzy
+    7400024: 3D_bull_sprint
+    7400026: XYZ_landedOn
+    7400028: XYZ_warning
+    7400030: XYZ_smashed
+    9500000: //RootNode
+    13700000: eye_0
+    13700002: knight_coat_0
+    13700004: knight_helmet_0
+    13700006: knight_sword_0
+    13700008: llama5_0
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 0bc50fe4ffaefb3469cec27653c748f1,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 561f5272e3cbf9647b2a8862a9bbb621
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: base_tail
+    100002: base_tail_0
+    100004: BODY
+    100006: CTRL_MAIN
+    100008: DONOTBATCH
+    100010: eye
+    100012: eye_0
+    100014: ghoast
+    100016: ghoast_0
+    100018: //RootNode
+    100020: goat7
+    100022: goat7_0
+    100024: HEAD
+    100026: HEAD 1
+    100028: HEAD 1_0
+    100030: joint1
+    100032: joint3
+    100034: joint4
+    100036: joint_Bottom
+    100038: joint_Bottom 1
+    100040: joint_Bottom 2
+    100042: joint_Bottom 3
+    100044: joint_Bottom 4
+    100046: joint_Middle
+    100048: joint_Middle 1
+    100050: joint_Middle 2
+    100052: joint_Middle 3
+    100054: joint_Middle 4
+    100056: joint_Top
+    100058: joint_Top 1
+    100060: joint_Top 2
+    100062: joint_Top 3
+    100064: joint_Top 4
+    100066: MESH
+    100068: MESH1
+    100070: MESH1_0
+    100072: MESH2
+    100074: MESH2_0
+    100076: MESH3
+    100078: MESH3_0
+    100080: MESH4
+    100082: MESH4_0
+    100084: MESH_0
+    100086: MESHES
+    100088: NECK
+    100090: offset
+    100092: shadowQuad
+    100094: shadowQuad_0
+    100096: skeleton
+    100098: TAIL
+    100100: TOFU_0
+    100102: TOFU_1
+    100104: TOFU_2
+    100106: TOFU_3
+    100108: TOFU_v01:joint_Bottom
+    100110: TOFU_v01:joint_Middle
+    100112: TOFU_v01:joint_Top
+    100114: TOFU_v01:MESH
+    100116: TOFU_v01:MESH_0
+    100118: TOFU_v01:SKELETON
+    400000: base_tail
+    400002: base_tail_0
+    400004: BODY
+    400006: CTRL_MAIN
+    400008: DONOTBATCH
+    400010: eye
+    400012: eye_0
+    400014: ghoast
+    400016: ghoast_0
+    400018: goat7
+    400020: //RootNode
+    400022: goat7_0
+    400024: HEAD
+    400026: HEAD 1
+    400028: HEAD 1_0
+    400030: joint1
+    400032: joint3
+    400034: joint4
+    400036: joint_Bottom
+    400038: joint_Bottom 1
+    400040: joint_Bottom 2
+    400042: joint_Bottom 3
+    400044: joint_Bottom 4
+    400046: joint_Middle
+    400048: joint_Middle 1
+    400050: joint_Middle 2
+    400052: joint_Middle 3
+    400054: joint_Middle 4
+    400056: joint_Top
+    400058: joint_Top 1
+    400060: joint_Top 2
+    400062: joint_Top 3
+    400064: joint_Top 4
+    400066: MESH
+    400068: MESH1
+    400070: MESH1_0
+    400072: MESH2
+    400074: MESH2_0
+    400076: MESH3
+    400078: MESH3_0
+    400080: MESH4
+    400082: MESH4_0
+    400084: MESH_0
+    400086: MESHES
+    400088: NECK
+    400090: offset
+    400092: shadowQuad
+    400094: shadowQuad_0
+    400096: skeleton
+    400098: TAIL
+    400100: TOFU_0
+    400102: TOFU_1
+    400104: TOFU_2
+    400106: TOFU_3
+    400108: TOFU_v01:joint_Bottom
+    400110: TOFU_v01:joint_Middle
+    400112: TOFU_v01:joint_Top
+    400114: TOFU_v01:MESH
+    400116: TOFU_v01:MESH_0
+    400118: TOFU_v01:SKELETON
+    2100000: AllEyes
+    2100002: AllAnimalAtlas
+    2100004: shadow_blob
+    2300000: shadowQuad_0
+    3300000: shadowQuad_0
+    4300000: eye_0
+    4300002: ghoast_0
+    4300004: base_tail_0
+    4300006: HEAD 1_0
+    4300008: MESH_0
+    4300010: MESH1_0
+    4300012: MESH2_0
+    4300014: MESH3_0
+    4300016: MESH4_0
+    4300018: TOFU_v01:MESH_0
+    4300020: shadowQuad_0
+    4300022: goat7_0
+    7400000: 3D_bull_run
+    7400002: 3D_bull_ridden
+    7400004: 3D_bull_buck
+    7400006: 3D_bull_goingWild
+    7400008: 3D_bull_crash
+    7400010: 3D_bull_idle
+    7400012: 3D_bull_happy
+    7400014: 3D_bull_special
+    7400016: 3D_bull_walk
+    7400018: 3D_bull_attack
+    7400020: 3D_bull_smashed
+    7400022: 3D_bull_dizzy
+    7400024: 3D_bull_sprint
+    7400026: XYZ_landedOn
+    7400028: XYZ_warning
+    7400030: XYZ_smashed
+    9500000: //RootNode
+    13700000: base_tail_0
+    13700002: eye_0
+    13700004: ghoast_0
+    13700006: goat7_0
+    13700008: HEAD 1_0
+    13700010: MESH1_0
+    13700012: MESH2_0
+    13700014: MESH3_0
+    13700016: MESH4_0
+    13700018: MESH_0
+    13700020: TOFU_v01:MESH_0
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 28b691decfa0f134a935f3a5c0e84208,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

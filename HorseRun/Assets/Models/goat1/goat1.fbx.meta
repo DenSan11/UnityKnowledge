@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 5f2aa576ce1a941468ffeadd050dc27f
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BODY
+    100002: CTRL_MAIN
+    100004: DONOTBATCH
+    100006: eye
+    100008: eye_0
+    100010: //RootNode
+    100012: goat1
+    100014: goat1_0
+    100016: HEAD
+    100018: joint1
+    100020: joint3
+    100022: joint4
+    100024: joint_Bottom
+    100026: joint_Bottom 1
+    100028: joint_Bottom 2
+    100030: joint_Bottom 3
+    100032: joint_Bottom 4
+    100034: joint_Middle
+    100036: joint_Middle 1
+    100038: joint_Middle 2
+    100040: joint_Middle 3
+    100042: joint_Middle 4
+    100044: joint_Top
+    100046: joint_Top 1
+    100048: joint_Top 2
+    100050: joint_Top 3
+    100052: joint_Top 4
+    100054: MESHES
+    100056: NECK
+    100058: offset
+    100060: shadowQuad
+    100062: shadowQuad_0
+    100064: skeleton
+    100066: TAIL
+    100068: TOFU_0
+    100070: TOFU_1
+    100072: TOFU_2
+    100074: TOFU_3
+    100076: TOFU_v01:joint_Bottom
+    100078: TOFU_v01:joint_Middle
+    100080: TOFU_v01:joint_Top
+    100082: TOFU_v01:SKELETON
+    100084: viking_beard
+    100086: viking_beard_0
+    100088: viking_horns
+    100090: viking_horns_0
+    400000: BODY
+    400002: CTRL_MAIN
+    400004: DONOTBATCH
+    400006: eye
+    400008: eye_0
+    400010: goat1
+    400012: //RootNode
+    400014: goat1_0
+    400016: HEAD
+    400018: joint1
+    400020: joint3
+    400022: joint4
+    400024: joint_Bottom
+    400026: joint_Bottom 1
+    400028: joint_Bottom 2
+    400030: joint_Bottom 3
+    400032: joint_Bottom 4
+    400034: joint_Middle
+    400036: joint_Middle 1
+    400038: joint_Middle 2
+    400040: joint_Middle 3
+    400042: joint_Middle 4
+    400044: joint_Top
+    400046: joint_Top 1
+    400048: joint_Top 2
+    400050: joint_Top 3
+    400052: joint_Top 4
+    400054: MESHES
+    400056: NECK
+    400058: offset
+    400060: shadowQuad
+    400062: shadowQuad_0
+    400064: skeleton
+    400066: TAIL
+    400068: TOFU_0
+    400070: TOFU_1
+    400072: TOFU_2
+    400074: TOFU_3
+    400076: TOFU_v01:joint_Bottom
+    400078: TOFU_v01:joint_Middle
+    400080: TOFU_v01:joint_Top
+    400082: TOFU_v01:SKELETON
+    400084: viking_beard
+    400086: viking_beard_0
+    400088: viking_horns
+    400090: viking_horns_0
+    2100000: AllEyes
+    2100002: AllAnimalAtlas
+    2100004: shadow_blob
+    2300000: shadowQuad_0
+    3300000: shadowQuad_0
+    4300000: eye_0
+    4300002: viking_beard_0
+    4300004: viking_horns_0
+    4300006: shadowQuad_0
+    4300008: goat1_0
+    7400000: 3D_bull_run
+    7400002: 3D_bull_ridden
+    7400004: 3D_bull_buck
+    7400006: 3D_bull_goingWild
+    7400008: 3D_bull_crash
+    7400010: 3D_bull_idle
+    7400012: 3D_bull_happy
+    7400014: 3D_bull_special
+    7400016: 3D_bull_walk
+    7400018: 3D_bull_attack
+    7400020: 3D_bull_smashed
+    7400022: 3D_bull_dizzy
+    7400024: 3D_bull_sprint
+    7400026: XYZ_landedOn
+    7400028: XYZ_warning
+    7400030: XYZ_smashed
+    9500000: //RootNode
+    13700000: eye_0
+    13700002: goat1_0
+    13700004: viking_beard_0
+    13700006: viking_horns_0
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 28b691decfa0f134a935f3a5c0e84208,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

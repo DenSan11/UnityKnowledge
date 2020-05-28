@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: fcdc1aadf18db174086f6af4e0c733cc
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BASE_EYES
+    100002: BASE_EYES_0
+    100004: BODY
+    100006: //RootNode
+    100008: chineseHorse4
+    100010: chineseHorse4_0
+    100012: CTRL_MAIN
+    100014: DONOTBATCH
+    100016: joint_Bottom
+    100018: joint_Bottom 1
+    100020: joint_Bottom 2
+    100022: joint_Bottom 3
+    100024: joint_Bottom 4
+    100026: joint_Bottom 5
+    100028: joint_Bottom 6
+    100030: joint_Middle
+    100032: joint_Middle 1
+    100034: joint_Middle 2
+    100036: joint_Middle 3
+    100038: joint_Middle 4
+    100040: joint_Middle 5
+    100042: joint_Middle 6
+    100044: joint_Top
+    100046: joint_Top 1
+    100048: joint_Top 2
+    100050: joint_Top 3
+    100052: joint_Top 4
+    100054: joint_Top 5
+    100056: joint_Top 6
+    100058: LEG_BL
+    100060: LEG_BR
+    100062: LEG_FL
+    100064: LEG_FR
+    100066: MESHES
+    100068: NECK
+    100070: offset
+    100072: shadowQuad
+    100074: shadowQuad_0
+    100076: SKELETON
+    100078: SKELETON 1
+    100080: SKELETON 2
+    100082: SKELETON 3
+    100084: SKELETON 4
+    100086: SKELETON 5
+    100088: SKELETON 6
+    100090: TAIL
+    100092: War_horse
+    100094: War_horse_0
+    400000: BASE_EYES
+    400002: BASE_EYES_0
+    400004: BODY
+    400006: //RootNode
+    400008: chineseHorse4
+    400010: chineseHorse4_0
+    400012: CTRL_MAIN
+    400014: DONOTBATCH
+    400016: joint_Bottom
+    400018: joint_Bottom 1
+    400020: joint_Bottom 2
+    400022: joint_Bottom 3
+    400024: joint_Bottom 4
+    400026: joint_Bottom 5
+    400028: joint_Bottom 6
+    400030: joint_Middle
+    400032: joint_Middle 1
+    400034: joint_Middle 2
+    400036: joint_Middle 3
+    400038: joint_Middle 4
+    400040: joint_Middle 5
+    400042: joint_Middle 6
+    400044: joint_Top
+    400046: joint_Top 1
+    400048: joint_Top 2
+    400050: joint_Top 3
+    400052: joint_Top 4
+    400054: joint_Top 5
+    400056: joint_Top 6
+    400058: LEG_BL
+    400060: LEG_BR
+    400062: LEG_FL
+    400064: LEG_FR
+    400066: MESHES
+    400068: NECK
+    400070: offset
+    400072: shadowQuad
+    400074: shadowQuad_0
+    400076: SKELETON
+    400078: SKELETON 1
+    400080: SKELETON 2
+    400082: SKELETON 3
+    400084: SKELETON 4
+    400086: SKELETON 5
+    400088: SKELETON 6
+    400090: TAIL
+    400092: War_horse
+    400094: War_horse_0
+    2100000: AllEyes
+    2100002: AllGreatWallAtlas
+    2100004: shadow_blob
+    2300000: shadowQuad_0
+    3300000: shadowQuad_0
+    4300000: BASE_EYES_0
+    4300002: War_horse_0
+    4300004: shadowQuad_0
+    4300006: chineseHorse4_0
+    7400000: 3D_bull_run
+    7400002: 3D_bull_ridden
+    7400004: 3D_bull_buck
+    7400006: 3D_bull_goingWild
+    7400008: 3D_bull_crash
+    7400010: 3D_bull_idle
+    7400012: 3D_bull_happy
+    7400014: 3D_bull_special
+    7400016: 3D_bull_walk
+    7400018: 3D_bull_attack
+    7400020: 3D_bull_smashed
+    7400022: 3D_bull_dizzy
+    7400024: 3D_bull_sprint
+    7400026: XYZ_landedOn
+    7400028: XYZ_warning
+    7400030: XYZ_smashed
+    9500000: //RootNode
+    13700000: BASE_EYES_0
+    13700002: chineseHorse4_0
+    13700004: War_horse_0
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 6cb4aa2646933d24a8695a962257bd2b,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

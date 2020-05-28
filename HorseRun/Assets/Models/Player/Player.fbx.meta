@@ -1,0 +1,732 @@
+fileFormatVersion: 2
+guid: 7715b887c530ff64fb8e14753dbf32f4
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ARM_L
+    100002: ARM_R
+    100004: ARML
+    100006: ARML_0
+    100008: ARMR
+    100010: ARMR_0
+    100012: BODY
+    100014: BODY 1
+    100016: BODY_0
+    100018: cape
+    100020: cape_0
+    100022: cape_1
+    100024: cape_2
+    100026: CHESTGIRL
+    100028: CHESTGIRL_0
+    100030: CLOTHES
+    100032: ctrl_hips
+    100034: ctrl_main
+    100036: DO_NOT_BATCH
+    100038: FOOTL
+    100040: FOOTL_0
+    100042: FOOTR
+    100044: FOOTR_0
+    100046: GameObject
+    100048: GameObject 1
+    100050: HAIRGIRL
+    100052: HAIRGIRL_0
+    100054: HEAD
+    100056: HEAD 1
+    100058: HEAD_0
+    100060: join_LoopConnect
+    100062: joint_Bottom
+    100064: joint_Bottom 1
+    100066: joint_Bottom 2
+    100068: joint_Bottom 3
+    100070: joint_Bottom 4
+    100072: joint_Foot
+    100074: joint_Foot 1
+    100076: joint_Hand
+    100078: joint_head
+    100080: joint_Loop
+    100082: joint_Middle
+    100084: joint_Middle 1
+    100086: joint_Middle 2
+    100088: joint_Middle 3
+    100090: joint_Middle 4
+    100092: joint_ponytail0
+    100094: joint_ponytail1
+    100096: joint_ponytail2
+    100098: joint_Top
+    100100: joint_Top 1
+    100102: joint_Top 2
+    100104: joint_Top 3
+    100106: joint_Top 4
+    100108: LandingRange
+    100110: Lasso_poly
+    100112: lasso_Poly 1
+    100114: lasso_Poly 1_0
+    100116: lassoArc_Quad
+    100118: lassoArc_Quad_0
+    100120: lassoRing
+    100122: lassoRing_0
+    100124: LEG_L
+    100126: LEG_R
+    100128: LEGL
+    100130: LEGL_0
+    100132: LEGR
+    100134: LEGR_0
+    100136: MESH_BODY
+    100138: MESH_BODY_0
+    100140: MESHES
+    100142: NECK_SHOULDERS
+    100144: NECK_SHOULDERS_0
+    100146: offset
+    100148: PELVIS
+    100150: PELVIS_0
+    100152: //RootNode
+    100154: Player
+    100156: PLAYER RELATED
+    100158: Player_LassoPos
+    100160: reward_HatIcon
+    100162: reward_HatIcon_0
+    100164: ROOT
+    100166: shadowQuad
+    100168: shadowQuad_0
+    100170: SKELETON
+    100172: SKELETON 1
+    100174: SKELETON 2
+    100176: SKELETON 3
+    100178: SKELETON 4
+    100180: SKELETON 5
+    100182: skirt
+    100184: skirt_0
+    100186: skirtBack
+    100188: skirtFront
+    400000: ARM_L
+    400002: ARM_R
+    400004: ARML
+    400006: ARML_0
+    400008: ARMR
+    400010: ARMR_0
+    400012: BODY
+    400014: BODY 1
+    400016: BODY_0
+    400018: cape
+    400020: cape_0
+    400022: cape_1
+    400024: cape_2
+    400026: CHESTGIRL
+    400028: CHESTGIRL_0
+    400030: CLOTHES
+    400032: ctrl_hips
+    400034: ctrl_main
+    400036: DO_NOT_BATCH
+    400038: FOOTL
+    400040: FOOTL_0
+    400042: FOOTR
+    400044: FOOTR_0
+    400046: GameObject
+    400048: GameObject 1
+    400050: HAIRGIRL
+    400052: HAIRGIRL_0
+    400054: HEAD
+    400056: HEAD 1
+    400058: HEAD_0
+    400060: join_LoopConnect
+    400062: joint_Bottom
+    400064: joint_Bottom 1
+    400066: joint_Bottom 2
+    400068: joint_Bottom 3
+    400070: joint_Bottom 4
+    400072: joint_Foot
+    400074: joint_Foot 1
+    400076: joint_Hand
+    400078: joint_head
+    400080: joint_Loop
+    400082: joint_Middle
+    400084: joint_Middle 1
+    400086: joint_Middle 2
+    400088: joint_Middle 3
+    400090: joint_Middle 4
+    400092: joint_ponytail0
+    400094: joint_ponytail1
+    400096: joint_ponytail2
+    400098: joint_Top
+    400100: joint_Top 1
+    400102: joint_Top 2
+    400104: joint_Top 3
+    400106: joint_Top 4
+    400108: LandingRange
+    400110: Lasso_poly
+    400112: lasso_Poly 1
+    400114: lasso_Poly 1_0
+    400116: lassoArc_Quad
+    400118: lassoArc_Quad_0
+    400120: lassoRing
+    400122: lassoRing_0
+    400124: LEG_L
+    400126: LEG_R
+    400128: LEGL
+    400130: LEGL_0
+    400132: LEGR
+    400134: LEGR_0
+    400136: MESH_BODY
+    400138: MESH_BODY_0
+    400140: MESHES
+    400142: NECK_SHOULDERS
+    400144: NECK_SHOULDERS_0
+    400146: offset
+    400148: PELVIS
+    400150: PELVIS_0
+    400152: //RootNode
+    400154: Player
+    400156: PLAYER RELATED
+    400158: Player_LassoPos
+    400160: reward_HatIcon
+    400162: reward_HatIcon_0
+    400164: ROOT
+    400166: shadowQuad
+    400168: shadowQuad_0
+    400170: SKELETON
+    400172: SKELETON 1
+    400174: SKELETON 2
+    400176: SKELETON 3
+    400178: SKELETON 4
+    400180: SKELETON 5
+    400182: skirt
+    400184: skirt_0
+    400186: skirtBack
+    400188: skirtFront
+    2100000: AllCharacterAtlas
+    2100002: m_rope
+    2100004: lassoArc
+    2100006: AllCharacterProps
+    2100008: lassoBand
+    2100010: shadow_blob
+    2300000: lassoArc_Quad_0
+    2300002: lassoRing_0
+    2300004: reward_HatIcon_0
+    2300006: shadowQuad_0
+    3300000: lassoArc_Quad_0
+    3300002: lassoRing_0
+    3300004: reward_HatIcon_0
+    3300006: shadowQuad_0
+    4300000: MESH_BODY_0
+    4300002: lasso_Poly 1_0
+    4300004: lassoArc_Quad_0
+    4300006: reward_HatIcon_0
+    4300008: cape_0
+    4300010: CHESTGIRL_0
+    4300012: HAIRGIRL_0
+    4300014: skirt_0
+    4300016: ARML_0
+    4300018: ARMR_0
+    4300020: BODY_0
+    4300022: FOOTL_0
+    4300024: FOOTR_0
+    4300026: HEAD_0
+    4300028: LEGL_0
+    4300030: LEGR_0
+    4300032: NECK_SHOULDERS_0
+    4300034: PELVIS_0
+    4300036: lassoRing_0
+    4300038: shadowQuad_0
+    7400000: 3D_1p_riding
+    7400002: 3D_1p_jumping
+    7400004: 3D_1p_dead
+    7400006: 3D_1p_landing
+    7400008: 3D_1p_launching
+    7400010: 3D_1p_grappeling
+    7400012: 3D_1p_deadBack
+    7400014: 3D_1p_idle
+    7400016: 3D_1p_castLasso
+    7400018: 3D_1p_sitStill
+    7400020: 3D_1p_inConfig
+    7400022: 3D_1p_rewardStand
+    7400024: 3D_1p_rewardJump
+    7400026: FX_1p_rewardJump
+    9500000: //RootNode
+    13700000: ARML_0
+    13700002: ARMR_0
+    13700004: BODY_0
+    13700006: cape_0
+    13700008: CHESTGIRL_0
+    13700010: FOOTL_0
+    13700012: FOOTR_0
+    13700014: HAIRGIRL_0
+    13700016: HEAD_0
+    13700018: lasso_Poly 1_0
+    13700020: LEGL_0
+    13700022: LEGR_0
+    13700024: MESH_BODY_0
+    13700026: NECK_SHOULDERS_0
+    13700028: PELVIS_0
+    13700030: skirt_0
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 3D_1p_riding
+      takeName: 3D_1p_riding
+      firstFrame: 0
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 3D_1p_jumping
+      takeName: 3D_1p_jumping
+      firstFrame: 0
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 3D_1p_dead
+      takeName: 3D_1p_dead
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 3D_1p_landing
+      takeName: 3D_1p_landing
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 3D_1p_launching
+      takeName: 3D_1p_launching
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 3D_1p_grappeling
+      takeName: 3D_1p_grappeling
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 3D_1p_deadBack
+      takeName: 3D_1p_deadBack
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 3D_1p_idle
+      takeName: 3D_1p_idle
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 3D_1p_castLasso
+      takeName: 3D_1p_castLasso
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 3D_1p_sitStill
+      takeName: 3D_1p_sitStill
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 3D_1p_inConfig
+      takeName: 3D_1p_inConfig
+      firstFrame: 0
+      lastFrame: 148
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 3D_1p_rewardStand
+      takeName: 3D_1p_rewardStand
+      firstFrame: 0
+      lastFrame: 148
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 3D_1p_rewardJump
+      takeName: 3D_1p_rewardJump
+      firstFrame: 0
+      lastFrame: 148
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FX_1p_rewardJump
+      takeName: FX_1p_rewardJump
+      firstFrame: 0
+      lastFrame: 118
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

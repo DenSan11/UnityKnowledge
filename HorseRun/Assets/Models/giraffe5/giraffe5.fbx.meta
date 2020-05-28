@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 69390b2fe0f82cf419db3483b71cc089
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: alien_Brain
+    100002: alien_Brain_0
+    100004: alien_Brain_1
+    100006: alien_scarf
+    100008: alien_scarf_0
+    100010: BODY
+    100012: CTRL_MAIN
+    100014: DONOTBATCH
+    100016: eye
+    100018: eye_0
+    100020: //RootNode
+    100022: giraffe5
+    100024: giraffe5_0
+    100026: HEAD
+    100028: joint1
+    100030: joint_Bottom
+    100032: joint_Bottom 1
+    100034: joint_Bottom 2
+    100036: joint_Bottom 3
+    100038: joint_Bottom 4
+    100040: joint_Bottom 5
+    100042: joint_Bottom 6
+    100044: joint_Middle
+    100046: joint_Middle 1
+    100048: joint_Middle 2
+    100050: joint_Middle 3
+    100052: joint_Middle 4
+    100054: joint_Middle 5
+    100056: joint_Middle 6
+    100058: joint_Top
+    100060: joint_Top 1
+    100062: joint_Top 2
+    100064: joint_Top 3
+    100066: joint_Top 4
+    100068: joint_Top 5
+    100070: joint_Top 6
+    100072: MESHES
+    100074: NECK
+    100076: offset
+    100078: shadowQuad
+    100080: shadowQuad_0
+    100082: SKELETON
+    100084: TAIL
+    100086: TOFU_0
+    100088: TOFU_1
+    100090: TOFU_2
+    100092: TOFU_3
+    400000: alien_Brain
+    400002: alien_Brain_0
+    400004: alien_Brain_1
+    400006: alien_scarf
+    400008: alien_scarf_0
+    400010: BODY
+    400012: CTRL_MAIN
+    400014: DONOTBATCH
+    400016: eye
+    400018: eye_0
+    400020: //RootNode
+    400022: giraffe5
+    400024: giraffe5_0
+    400026: HEAD
+    400028: joint1
+    400030: joint_Bottom
+    400032: joint_Bottom 1
+    400034: joint_Bottom 2
+    400036: joint_Bottom 3
+    400038: joint_Bottom 4
+    400040: joint_Bottom 5
+    400042: joint_Bottom 6
+    400044: joint_Middle
+    400046: joint_Middle 1
+    400048: joint_Middle 2
+    400050: joint_Middle 3
+    400052: joint_Middle 4
+    400054: joint_Middle 5
+    400056: joint_Middle 6
+    400058: joint_Top
+    400060: joint_Top 1
+    400062: joint_Top 2
+    400064: joint_Top 3
+    400066: joint_Top 4
+    400068: joint_Top 5
+    400070: joint_Top 6
+    400072: MESHES
+    400074: NECK
+    400076: offset
+    400078: shadowQuad
+    400080: shadowQuad_0
+    400082: SKELETON
+    400084: TAIL
+    400086: TOFU_0
+    400088: TOFU_1
+    400090: TOFU_2
+    400092: TOFU_3
+    2100000: AllEyes
+    2100002: AllAnimalAtlas
+    2100004: No Name
+    2100006: shadow_blob
+    2300000: shadowQuad_0
+    3300000: shadowQuad_0
+    4300000: eye_0
+    4300002: alien_Brain_0
+    4300004: alien_Brain_1
+    4300006: alien_scarf_0
+    4300008: shadowQuad_0
+    4300010: giraffe5_0
+    7400000: 3D_bull_run
+    7400002: 3D_bull_ridden
+    7400004: 3D_bull_buck
+    7400006: 3D_bull_goingWild
+    7400008: 3D_bull_crash
+    7400010: 3D_bull_idle
+    7400012: 3D_bull_happy
+    7400014: 3D_bull_special
+    7400016: 3D_bull_walk
+    7400018: 3D_bull_attack
+    7400020: 3D_bull_smashed
+    7400022: 3D_bull_dizzy
+    7400024: 3D_bull_sprint
+    7400026: XYZ_landedOn
+    7400028: XYZ_warning
+    7400030: XYZ_smashed
+    9500000: //RootNode
+    13700000: alien_Brain_0
+    13700002: alien_Brain_1
+    13700004: alien_scarf_0
+    13700006: eye_0
+    13700008: giraffe5_0
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: de53822ab90057847902b4e34e379fb8,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
