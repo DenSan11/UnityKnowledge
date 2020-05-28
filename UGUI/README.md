@@ -8,3 +8,4 @@
 >* 3、[RectTransform详解](https://www.cnblogs.com/zhimalier/p/11633816.html)
 >* 4、[EventSystem解析](https://www.cnblogs.com/blueberryzzz/p/12216045.html)
 >* 5、[Canvas/CanvasScaler/GraphicRaycaster详解](https://gameinstitute.qq.com/community/detail/127148)
+>* 5、[简易背包](https://gameinstitute.qq.com/community/detail/127148)
