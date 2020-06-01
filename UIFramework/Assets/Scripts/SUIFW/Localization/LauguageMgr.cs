@@ -38,9 +38,9 @@ namespace SUIFW
         /// <returns></returns>
 	    public static LauguageMgr GetInstance()
 	    {
-	        if(_Instance==null)
+	        if(_Instance == null)
             {
-                _Instance=new LauguageMgr();
+                _Instance = new LauguageMgr();
             }
 	        return _Instance;
 	    }

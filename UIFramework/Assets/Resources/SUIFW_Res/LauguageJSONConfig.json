@@ -32,6 +32,30 @@
 "Value":"shoeDetailInfo:"},
 
 {"Key":"Cancle",
-"Value":"Cancle"}
+"Value":"Cancle"},
+
+{"Key":"ConfirmText",
+"Value":"Confirm"},
+
+{"Key":"GodRod",
+"Value":"GodRod"},
+
+{"Key":"GodRodDetail",
+"Value":"This is a godrod."},
+
+{"Key":"Caliga",
+"Value":"Caliga"},
+
+{"Key":"CaligaDetail",
+"Value":"This is a Caliga."},
+
+{"Key":"Armour",
+"Value":"Armour"},
+
+{"Key":"ArmourDetail",
+"Value":"This is a Armour."},
+
+{"Key":"Store",
+"Value":"Store"}
 ]
 }

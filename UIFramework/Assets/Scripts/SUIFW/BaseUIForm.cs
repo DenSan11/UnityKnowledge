@@ -163,7 +163,7 @@ namespace SUIFW
 	    }
 
         /// <summary>
-        /// 显示语言
+        /// 显示相应语言内容
         /// </summary>
         /// <param name="id"></param>
 	    public string Show(string id)
@@ -173,8 +173,6 @@ namespace SUIFW
             strResult = LauguageMgr.GetInstance().ShowText(id);
             return strResult;
         }
-
 	    #endregion
-
     }
 }

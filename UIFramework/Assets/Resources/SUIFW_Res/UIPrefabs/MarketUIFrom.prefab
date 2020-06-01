@@ -162,7 +162,7 @@ GameObject:
   - component: {fileID: 114282813603217218}
   - component: {fileID: 114237842460970482}
   m_Layer: 5
-  m_Name: Button (1)
+  m_Name: ButtonPants
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -684,7 +684,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u5546\u57CE\u7CFB\u7EDF"
+  m_Text: "\u5546\u57CE"
 --- !u!114 &114761317666333298
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -764,6 +764,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf31461a720eed74f9250cb614969388, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  TitleText: {fileID: 114599274734631072}
 --- !u!114 &114946145268718304
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -922,7 +923,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -24.299988, y: -20.099976}
+  m_AnchoredPosition: {x: -24.299988, y: -20.100098}
   m_SizeDelta: {x: 47.7, y: 40.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &224332019250090390
