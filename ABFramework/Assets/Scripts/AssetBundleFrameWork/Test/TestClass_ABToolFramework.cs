@@ -32,7 +32,7 @@ namespace ABFW
 
         private void Start()
         {
-            Debug.Log(GetType() + "开始'ABFW'框架测试 ");
+            Debug.Log(GetType() + "开始'ABFW'框架测试");
             //调用AB包（连锁智能调用AB包【集合】）
             StartCoroutine(AssetBundleMgr.GetInstance().LoadAssetBundlePack(_ScenesName, _AssetBundelName, LoadAllABComplete));
         }
@@ -60,9 +60,6 @@ namespace ABFW
                 AssetBundleMgr.GetInstance().DisposeAllAssets(_ScenesName);
             }
         }
-
-
-
     }
 }
 

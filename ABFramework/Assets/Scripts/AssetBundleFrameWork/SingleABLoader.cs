@@ -33,7 +33,6 @@ namespace ABFW
         private string _ABDownLoadPath;
 
 
-
         //构造函数
         public SingleABLoader(string abName,DelLoadComplete loadComplete)
         {
@@ -71,7 +70,7 @@ namespace ABFW
                         Debug.LogError(GetType()+ "/LoadAssetBundle()/WWW 下载出错，请检查！ AssetBundle URL: "+ _ABDownLoadPath+" 错误信息： "+www.error);
                     }
                 }
-            }//using_end            
+            }           
         }
 
         /// <summary>

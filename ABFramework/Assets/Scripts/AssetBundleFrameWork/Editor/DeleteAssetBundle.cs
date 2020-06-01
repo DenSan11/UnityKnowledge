@@ -45,10 +45,8 @@ namespace ABFW
                 //刷新
                 AssetDatabase.Refresh();
             }
-        }
-
-		
-	}//Class_end
+        }		
+	}
 }
 
 

@@ -94,9 +94,7 @@ namespace ABFW
             //调用“多包管理类”的加载指定AB包。
             yield return tmpMultiMgrObj.LoadAssetBundeler(abName);
 
-        }//Method_end
-
-
+        }
 
         /// <summary>
         /// 加载(AB 包中)资源
@@ -133,7 +131,7 @@ namespace ABFW
             }
         }
 
-    }//Class_end
+    }
 }
 
 

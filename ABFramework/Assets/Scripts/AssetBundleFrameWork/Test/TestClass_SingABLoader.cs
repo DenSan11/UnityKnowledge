@@ -107,8 +107,8 @@ namespace ABFW
             if (Input.GetKeyDown(KeyCode.A))
             {
                 Debug.Log("释放镜像内存资源，与内存资源");
-                //_LoadObj.Dispose();//释放镜像内存资源
-                _LoadObj.DisposeALL();//释放镜像内存资源，与内存资源
+                _LoadObj.Dispose();//释放镜像内存资源
+                //_LoadObj.DisposeALL();//释放镜像内存资源，与内存资源
             }
         }
 

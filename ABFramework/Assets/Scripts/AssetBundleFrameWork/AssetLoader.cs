@@ -34,7 +34,6 @@ namespace ABFW
         private Hashtable _Ht;
 
 
-
         /// <summary>
         /// 构造函数
         /// </summary>
