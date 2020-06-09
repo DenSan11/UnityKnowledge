@@ -479,8 +479,6 @@ namespace SUIFW
 
         /// <summary>
         /// (“隐藏其他”属性)打开窗体，且隐藏其他窗体
-        /// 
-        /// Modify by 20180918
         /// </summary>
         /// <param name="strUIName">打开的指定窗体名称</param>
         private void EnterUIFormsAndHideOther(string strUIName)

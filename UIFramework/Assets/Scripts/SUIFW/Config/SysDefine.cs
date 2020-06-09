@@ -64,6 +64,17 @@ namespace SUIFW
         Pentrate    
     }
 
+    /// <summary>
+    /// UI动画类型
+    /// </summary>
+    public enum UIAnimationType
+    {
+        Size,
+        Site,
+        Spin,
+        None
+    }
+
     #endregion
 
     public class SysDefine : MonoBehaviour {

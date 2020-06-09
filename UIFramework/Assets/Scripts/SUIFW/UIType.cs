@@ -26,6 +26,7 @@ namespace SUIFW
 	    public UIFormShowMode UIForms_ShowMode = UIFormShowMode.Normal;
         //UI窗体透明度类型
 	    public UIFormLucenyType UIForm_LucencyType = UIFormLucenyType.Lucency;
-
+        //UI窗体动画
+	    public UIAnimationType UIForm_AnimationType = UIAnimationType.None;
 	}
 }

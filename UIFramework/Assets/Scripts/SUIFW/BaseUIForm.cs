@@ -45,12 +45,33 @@ namespace SUIFW
 	    public virtual void Display()
 	    {
 	        this.gameObject.SetActive(true);
+	        PlayAnimation();
             //设置模态窗体调用(必须是弹出窗体)
             if (_CurrentUIType.UIForms_Type==UIFormType.PopUp)
             {
                 UIMaskMgr.GetInstance().SetMaskWindow(this.gameObject,_CurrentUIType.UIForm_LucencyType);
             }
 	    }
+
+	    public virtual void PlayAnimation()
+	    {
+	        //if (_CurrentUIType.UIForm_AnimationType == UIAnimationType.Site)
+	        //{
+	        //    Debug.Log("位置改变");
+	        //}
+         //   else if (_CurrentUIType.UIForm_AnimationType == UIAnimationType.Size)
+	        //{
+	        //    Debug.Log("大小改变");
+         //   }
+	        //else if (_CurrentUIType.UIForm_AnimationType == UIAnimationType.Spin)
+	        //{
+	        //    Debug.Log("角度改变");
+	        //}
+	        //else if (_CurrentUIType.UIForm_AnimationType == UIAnimationType.None)
+	        //{
+	        //    return;
+	        //}
+        }
 
         /// <summary>
         /// 隐藏状态
